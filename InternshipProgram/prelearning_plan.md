@@ -8,14 +8,14 @@
 
 ***
 ### 测试对象 - web应用程序
-* 了解前端基础知识
+* \* 了解前端基础知识
 [html](http://www.w3school.com.cn/html/index.asp)
 [css](http://www.w3school.com.cn/css/index.asp)
 [js](http://www.w3school.com.cn/js/)
-* 了解RESTful的含义
+* \* 了解RESTful的含义
 [wiki](http://zh.wikipedia.org/wiki/REST)
 [入门](http://www.cnblogs.com/shanyou/archive/2012/05/12/2496959.html)
-* 了解HTTP
+* \* 了解HTTP
 [入门](http://www.cnblogs.com/linzheng/archive/2011/01/25/1944914.html)
 请熟悉POSTMAN或是http requester的使用，这是要写API level 自动化测试的基础
 * 了解构建工具
