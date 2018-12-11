@@ -26,7 +26,7 @@
  2. gradle
     [材料1](http://gradle.org/)
     [材料2](http://gradle.org/getting-started-gradle-java/)
-* \* 了解版本控制工具
+* 了解版本控制工具
  1. git
 [材料1](http://git-scm.com/book/zh/v2)
 [材料2](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
