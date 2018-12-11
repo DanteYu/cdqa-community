@@ -8,12 +8,11 @@
 
 ***
 ### 测试对象 - web应用程序
-* \*了解前端基础知识
+* 了解前端基础知识
 [html](http://www.w3school.com.cn/html/index.asp)
 [css](http://www.w3school.com.cn/css/index.asp)
 [js](http://www.w3school.com.cn/js/)
-<br/>
-* \*了解RESTful的含义
+* 了解RESTful的含义
 [wiki](http://zh.wikipedia.org/wiki/REST)
 [入门](http://www.cnblogs.com/shanyou/archive/2012/05/12/2496959.html)
 * 了解HTTP
